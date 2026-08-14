@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Ujian PKK - Produk Kreatif dan Kewirausahaan",
+  "description": "Sistem Ujian dan Evaluasi Pembelajaran Produk Kreatif dan Kewirausahaan dengan Rekap Nilai Admin dan Multi-Kesempatan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
